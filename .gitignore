@@ -1,0 +1,8 @@
+.profile
+*.cmi
+*.cmo
+/builds/*
+/.opam/*
+/.vscode/*
+*.bat
+*.pdf
